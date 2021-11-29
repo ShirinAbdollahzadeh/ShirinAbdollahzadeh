@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ShirinAbdollahzadeh
-- 👀 I’m interested in drawing , music and driving.
 - 🌱 I’m currently learning React Native. 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : My email is shirin_abdollahzade@yahoo.com 
 
 <!---
